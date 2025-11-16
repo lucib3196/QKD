@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/curriculum-building-a-modern-web-app-ucr-starter-project/","tags":["notes/atomic","tutorial","publish"]}
+{"dg-publish":true,"permalink":"/02-notes/curriculum-building-a-modern-web-app-ucr-starter-project/","tags":["#notes/atomic","#tutorial","#publish"]}
 ---
 
 
