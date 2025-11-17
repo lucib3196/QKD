@@ -65,7 +65,7 @@ pip install uvicorn
 uvicorn main:app --reload
 ```
 
-
+**Note**: The flag `--reload` indicates that when we make changes to our code it will auto run again, good for development. 
 ## Interactive Docs
 
 Now go to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
