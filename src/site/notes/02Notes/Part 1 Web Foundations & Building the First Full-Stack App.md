@@ -14,7 +14,6 @@ Give students the **absolute essentials** of how the modern web works and guide 
 Students learn the conceptual foundations **before** writing any code.
 
 - [[02Notes/UCR-MWA Client–Server Model\|UCR-MWA Client–Server Model]]: 
-- [[02Notes/UCR-MWA Frontend vs Backend\|UCR-MWA Frontend vs Backend]] 
 - [[What Is a Database\|What Is a Database]]
 - [[HTTP Basics (Requests, Responses, Streaming)\|HTTP Basics]]
 - [[HTTPS and Certificates\|HTTPS Basics]]
@@ -36,8 +35,9 @@ A crash course for students who know “a little Python” or “a little JS” 
 
 Before building endpoints, students learn _how to think about APIs_.
 
-- [[What is an API\|What is an API]]
-- [[REST API Design Principles\|REST API Design Principles]]
+- [[02Notes/UCR-WMA What is an API\|UCR-WMA What is an API]] 
+- [[02Notes/UCR-MWA REST API Design Principles\|UCR-MWA REST API Design Principles]]
+- [[02Notes/UCR-MWA HTTP Actions\|UCR-MWA HTTP Actions]] 
 - [[Naming Endpoints Properly\|Naming Endpoints Properly]]
 - [[HTTP Status Codes Explained\|HTTP Status Codes Explained]]
 
@@ -46,7 +46,7 @@ Before building endpoints, students learn _how to think about APIs_.
 Step-by-step: from “hello world” to routing, validation, and modularization.
 
 - [[02Notes/UCR-WMA FastAPI Intro\|UCR-WMA FastAPI Intro]]
-- [[FastAPI vs Other Frameworks\|FastAPI vs Other Frameworks]]
+- [[02Notes/UCR-WMA Comparing Python Web Frameworks\|UCR-WMA Comparing Python Web Frameworks]] 
 - [[Pydantic for Data Validation\|Pydantic for Data Validation]]
 - [[FastAPI Beginner Guide\|FastAPI Beginner Guide]]
 - [[Python Type Hints in Practice\|Python Type Hints in Practice]]

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ucr-wma-fast-api-intro/","tags":["notes/atomic","UCR-WWA","publish"]}
+{"dg-publish":true,"permalink":"/02-notes/ucr-wma-fast-api-intro/","tags":["#notes/atomic","#UCR-WWA","#publish"]}
 ---
 
 
-FastAPI is a web framework which helps you build web applications. 
+FastAPI is a web framework which helps you build [[02Notes/UCR-MWA REST API Design Principles\|RESTful]] web applications. 
 
 FastAPI has these main advantages
 
@@ -65,7 +65,7 @@ pip install uvicorn
 uvicorn main:app --reload
 ```
 
-**Note**: The flag `--reload` indicates that when we make changes to our code it will auto run again, good for development. 
+**Note**: The flag `--reload` indicates that when we make changes to our code it will auto run again, good for development.  
 ## Interactive Docs
 
 Now go to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).

@@ -11,7 +11,7 @@ A client server model (also called  client-server architecture) is a way of stru
 
 - **Clients/Frontend**: Devices or software that request services or resources. This is **how a user will interact with our application** (example browser, mobile app )
 
-- **Servers**: Machines or software that provide those services or resource. (example web server, database server). Defines **what our application does once** it receives a request from a user, it can be something such as transforming, retrieving or creating some information.
+- **Servers/Backend**: Machines or software that provide those services or resource. (example web server, database server). Defines **what our application does once** it receives a request from a user, it can be something such as transforming, retrieving or creating some information.
 
 - **[[02Notes/Databases\|Databases]]**: Where we store and retrieve data from. 
 - **[[Communication Protocols\|Communication]]**: In this model communication between the client and server is done over a [[02Notes/Networking\|network]] using defined protocols(example [[02Notes/HTTP Streaming\|HTTP]],  [[02Notes/TCP & IP Model\|TCP/IP]])
