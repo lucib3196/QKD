@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/part-1-web-foundations-and-building-the-first-full-stack-app/","tags":["#notes/atomic","#publish","#curriculum"]}
+{"dg-publish":true,"permalink":"/02-notes/part-1-web-foundations-and-building-the-first-full-stack-app/","tags":["notes/atomic","publish","curriculum"]}
 ---
 
 **Link to Course**: [[02Notes/Curriculum Building a Modern Web App UCR Starter Project\|Curriculum Building a Modern Web App UCR Starter Project]]
@@ -48,7 +48,6 @@ Step-by-step: from “hello world” to routing, validation, and modularization.
 - [[02Notes/UCR-WMA FastAPI Intro\|UCR-WMA FastAPI Intro]]
 - [[02Notes/UCR-WMA Comparing Python Web Frameworks\|UCR-WMA Comparing Python Web Frameworks]] 
 - [[Pydantic for Data Validation\|Pydantic for Data Validation]]
-- [[FastAPI Beginner Guide\|FastAPI Beginner Guide]]
 - [[Python Type Hints in Practice\|Python Type Hints in Practice]]
 
 ---
@@ -67,6 +66,8 @@ A practical intro focused on building real components and pages. Not meant to be
 ---
 
 ## Connecting FastAPI & React (Full-Stack Integration)
+
+**Github Repo goes here**: 
 
 Students connect both services and fetch data end-to-end.
 

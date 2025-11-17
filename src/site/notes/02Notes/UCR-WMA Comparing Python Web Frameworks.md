@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ucr-wma-comparing-python-web-frameworks/","tags":["notes/atomic"]}
+{"dg-publish":true,"permalink":"/02-notes/ucr-wma-comparing-python-web-frameworks/","tags":["#notes/atomic"]}
 ---
 
 There are three main web frameworks used in python that being 
