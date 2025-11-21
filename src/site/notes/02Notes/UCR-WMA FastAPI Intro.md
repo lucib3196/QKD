@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ucr-wma-fast-api-intro/","tags":["#notes/atomic","#UCR-WWA","#publish"]}
+{"dg-publish":true,"permalink":"/02-notes/ucr-wma-fast-api-intro/","tags":["notes/atomic","UCR-WWA","publish"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ucr-mwa-client-server-model/","tags":["#notes/atomic"]}
+{"dg-publish":true,"permalink":"/02-notes/ucr-mwa-client-server-model/","tags":["notes/atomic"]}
 ---
 
 **Link to Course**: [[02Notes/Curriculum Building a Modern Web App UCR Starter Project\|Curriculum Building a Modern Web App UCR Starter Project]]  - [[02Notes/Part 1 Web Foundations & Building the First Full-Stack App\|Part 1 Web Foundations & Building the First Full-Stack App]] 

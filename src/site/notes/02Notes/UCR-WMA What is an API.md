@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ucr-wma-what-is-an-api/","tags":["#notes/atomic","#UCR-WWA"]}
+{"dg-publish":true,"permalink":"/02-notes/ucr-wma-what-is-an-api/","tags":["notes/atomic","UCR-WWA"]}
 ---
 
 

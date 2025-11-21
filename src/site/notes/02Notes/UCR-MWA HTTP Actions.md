@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ucr-mwa-http-actions/","tags":["#notes/atomic"]}
+{"dg-publish":true,"permalink":"/02-notes/ucr-mwa-http-actions/","tags":["notes/atomic"]}
 ---
 
 

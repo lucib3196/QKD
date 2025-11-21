@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/qkd-resources/","tags":["notes/atomic","publish","notes/moc"]}
+{"dg-publish":true,"permalink":"/02-notes/qkd-resources/","tags":["#notes/atomic","#publish","#notes/moc"]}
 ---
 
 # Computer Vision 
